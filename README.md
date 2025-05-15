@@ -29,3 +29,4 @@ license_link: https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/LICE
 
 No trigger words defined.
 没有设定触发词
+# gta-lora
